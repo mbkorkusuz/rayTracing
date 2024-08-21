@@ -1,6 +1,6 @@
 #include "ppm.h"
 #include <stdexcept>
-
+#include <stdio.h>
 void write_ppm(const char* filename, unsigned char* data, int width, int height)
 {
     FILE *outfile;
