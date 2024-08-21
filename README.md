@@ -3,7 +3,20 @@
 This repository contains the implementation of well known ray tracing render method in computer graphics.
 
 ## **Installation**
-    Compile all the files with make and run the executable on .xml formatted 3D objects in the inputs folder.
+1. Clone repository to your local machine
+ ````text
+git clone https://github.com/mbkorkusuz/rayTracing.git
+````
+2. Navigate to the project directory
+3. Compile the files
+ ````text
+make
+```` 
+5. Run `raytracer` executable on input files E.g
+ ````text
+./raytracer < inputs/simple.xml
+````
+    
 ## **Example Outputs**
 Here are some rendered 3D objects
 <div class="header">
