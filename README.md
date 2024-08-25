@@ -30,10 +30,10 @@ Here are some rendered 3D objects
     Mirrored Spheres
   </h1>
 </div>
-<img src="/outputs/mirror_spheres.png" title="Mirrored Spheres" width=50% height=50%>
+<img src="/outputs/mirror_spheres.png" alt="Mirrored Spheres" title="Mirrored Spheres" width=50% height=50%>
 <div class="header">
   <h1>
     Cornell Box
   </h1>
 </div>
-<img src="/outputs/cornellbox_front.png" title="Cornell Box" width=50% height=50%>
+<img src="/outputs/cornellbox_front.png" alt = "Cornell Box" title="Cornell Box" width=50% height=50%>
